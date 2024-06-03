@@ -1,0 +1,7 @@
+{
+  "name": "circeMamablank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
